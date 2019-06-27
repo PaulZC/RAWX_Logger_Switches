@@ -1,7 +1,11 @@
 # RAWX_Logger_Switches
 
-An **untested** switch PCB for the [ZED-F9P_FeatherWing](https://github.com/PaulZC/ZED-F9P_FeatherWing) and
+A switch PCB for the [ZED-F9P_FeatherWing](https://github.com/PaulZC/ZED-F9P_FeatherWing) and
 [ZED-F9P_FeatherWing_USB](https://github.com/PaulZC/ZED-F9P_FeatherWing_USB)
+
+![Switches](https://github.com/PaulZC/RAWX_Logger_Switches/blob/master/img/Switches.PNG)
+
+![PCBs](https://github.com/PaulZC/RAWX_Logger_Switches/blob/master/img/PCBs.PNG)
 
 Contains:
 
@@ -37,6 +41,8 @@ The schematic is available [here](https://github.com/PaulZC/RAWX_Logger_Switches
 - LED2 is an 0805 (2.0x1.25mm) red LED: e.g. Wurth Electronik 150080RS75000 (Farnell / Element14 part 2322077)
 - R1 is a generic 0805 or 0603 1K resistor: e.g. Multicomp MCWR06X1001FTL (Farnell / Element14 part 2447272)
 - C1 and C2 are generic 0603 0.1uF (100nF) ceramic capacitors: e.g. Murata GRM188R71H104JA93D (Farnell / Element14 part 2688523)
+
+LED2 and R1 are optional if you are using the NeoPixel
 
 ## Acknowledgements
 
