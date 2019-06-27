@@ -3,9 +3,9 @@
 A switch PCB for the [ZED-F9P_FeatherWing](https://github.com/PaulZC/ZED-F9P_FeatherWing) and
 [ZED-F9P_FeatherWing_USB](https://github.com/PaulZC/ZED-F9P_FeatherWing_USB)
 
-![Switches](https://github.com/PaulZC/RAWX_Logger_Switches/blob/master/img/Switches.PNG)
+![Switches](https://github.com/PaulZC/RAWX_Logger_Switches/blob/master/img/Switches.JPG)
 
-![PCBs](https://github.com/PaulZC/RAWX_Logger_Switches/blob/master/img/PCBs.PNG)
+![PCBs](https://github.com/PaulZC/RAWX_Logger_Switches/blob/master/img/PCBs.JPG)
 
 Contains:
 
